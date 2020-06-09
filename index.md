@@ -1,5 +1,4 @@
-# PRIVACY POLICY
-Last updated 3.2.2020
+Last updated 03.02.2020
 
 When you visit our mobile application, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Apps and our services.
 
@@ -66,15 +65,10 @@ In some regions (like the European Economic Area), you have certain rights under
 If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.
 If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
  
-## 8. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
-In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
-If you are under 18 years of age, reside in California, and have a registered account with the Apps, you have the right to request removal of unwanted data that you publicly post on the Apps. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Apps, but please be aware that the data may not be completely or comprehensively removed from our systems.
- 
-## 9. DO WE MAKE UPDATES TO THIS POLICY?
+## 8. DO WE MAKE UPDATES TO THIS POLICY?
 In Short:  Yes, we will update this policy as necessary to stay compliant with relevant laws.
 We may update this privacy notice from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
  
-## 10. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
+## 9. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 If you have questions or comments about this policy, you may email us at d.esie@icloud.com.
  
