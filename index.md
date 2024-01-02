@@ -1,4 +1,4 @@
-Last updated 02.01.2024
+### Last updated 02.01.2024
 
 When you visit our mobile application, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Apps and our services.
 
