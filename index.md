@@ -1,4 +1,4 @@
-Last updated 03.02.2020
+Last updated 02.01.2024
 
 When you visit our mobile application, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Apps and our services.
 
@@ -15,15 +15,16 @@ Information collected through our Apps
 In Short:   We may collect information regarding your when you use our apps.
 If you use our Apps, we may also collect the following information:
    – Operation system name and version. 
-   – Device model and identifier.
+   – Device model and random user identifier, not linked to you.
    – Country, region and language settings.
+   – Crash reports and diagnostics logs.
  
 ## 2. HOW DO WE USE YOUR INFORMATION?
 In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.
 We use personal information collected via our Apps for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.
 We use the information we collect or receive:
  
-For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Apps, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent.
+For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Apps, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information.
  
 ## 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
@@ -57,7 +58,7 @@ We have implemented appropriate technical and organizational security measures d
  
 ## 6. DO WE COLLECT INFORMATION FROM MINORS?
 In Short:  We do not knowingly collect data from or market to children under 18 years of age.
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Apps, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Apps. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at d.esie@icloud.com.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Apps, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Apps. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, you may email us at <u>k.esie@icloud.com</u> or complete contact form here [https://www.denisesie.com/support](https://www.denisesie.com/support).
  
 ## 7. WHAT ARE YOUR PRIVACY RIGHTS?
 In Short:  In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.
@@ -70,5 +71,5 @@ In Short:  Yes, we will update this policy as necessary to stay compliant with r
 We may update this privacy notice from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
  
 ## 9. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
-If you have questions or comments about this policy, you may email us at d.esie@icloud.com.
+If you have questions or comments about this policy, you may email us at <u>k.esie@icloud.com</u> or complete contact form here [https://www.denisesie.com/support](https://www.denisesie.com/support).
  
