@@ -17,7 +17,7 @@ If you use our Apps, we may also collect the following information:
    – Operation system name and version. 
    – Device model and random user identifier, not linked to you.
    – Country, region and language settings.
-   – Crash reports and diagnostics logs.
+   – Crash reports and diagnostics logs, not linked to you.
  
 ## 2. HOW DO WE USE YOUR INFORMATION?
 In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.
